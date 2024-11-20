@@ -1,4 +1,4 @@
-#Dependensi Konfusi NPM
+# Dependensi Konfusi NPM
 
 Dependency Confusion adalah sebuah bug yang dimana hacker memasukan atau menyisipkan source code malicious kedalam sebuah libraru nodejs alias npm yang dimana ini sangat berbahaya jika di install pada si victim....
 
